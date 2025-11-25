@@ -17,7 +17,7 @@
 // }
 
 //split function
-class Main{
+class palindrome{
     public static void main(String[] args){
         String str="java cpp c php js";
 

@@ -1,6 +1,6 @@
 // count of vowels
 
-class Main{
+class vowel{
     public static void main(String[] args){
       String str="java";
       int v=0;
