@@ -1,5 +1,5 @@
 // type casting
-class Main{
+class typecast{
     public static void main(String[] args) {
         byte a=30;     //1 byte
         short b=a;      // 2byte
