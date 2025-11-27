@@ -1,6 +1,6 @@
 // remove repeated alphabet
 
-class Main{
+class string{
     public static void main(String[] args){
         // String str="hello";
         // String newStr="";

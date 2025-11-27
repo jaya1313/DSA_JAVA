@@ -1,6 +1,6 @@
 // check string is ardum
 import java.util.Arrays;
-class Main{
+class str{
     public static void main(String[] args) {
           String str="hello";
           String str2="lloeh";
