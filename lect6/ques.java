@@ -13,7 +13,7 @@ class Student {
     }
 }
 
-class Main{
+class ques{
     public static void main(String[] args){
         Student s1=new Student();
         s1.name="jaya karwani";
