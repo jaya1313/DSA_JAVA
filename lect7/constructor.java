@@ -25,7 +25,7 @@ class  Car{
     }
 }
 
-class Main{
+class constructor{
     public static void main(String[] args){
         Car c1=new Car(5,"jain");
         Car c2=new Car(6,"sharma");
