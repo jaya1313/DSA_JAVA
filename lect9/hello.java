@@ -15,7 +15,7 @@
 //         System.out.println("monitor is checking discipline");
 //     }
 // }
-// class Main{
+// class hello{
 //     public static void main(String[] args){
 //         Monitor m=new Monitor();
 //             m.displayName();
