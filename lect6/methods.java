@@ -35,7 +35,7 @@ class Car{
     }
 }
 
-class methods{
+public class methods{
     public static void main(String[] args){
         //Car obj=new Car();
         Car.Sum();
