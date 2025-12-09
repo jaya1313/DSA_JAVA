@@ -1,6 +1,6 @@
 // method overloading
 
-class Main{
+ class Main{
     void add(int a){
         System.out.println(a);
     }
@@ -10,7 +10,7 @@ class Main{
     void add(int a,int b,int c){
         System.out.println(a+b+c);
     }
-    class methodOverloading{
+    public class methodOverloading{
     public static void main(String[] args){
         Main m=new Main();
         m.add(5);
@@ -19,3 +19,4 @@ class Main{
     }
 }
 }
+ 
