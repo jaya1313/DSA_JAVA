@@ -1,0 +1,26 @@
+package lect18;
+
+public class tryCatch {
+    public static void main(String[] args) {
+        try{
+            voteAge(15);
+        }
+        catch(Exception e){
+            System.out.println(e);
+        }
+        try{
+            voteAge(19);
+        }
+        catch(Exception e){
+            System.out.println(e);
+    }
+}
+static void voteAge(int age){
+    if (age<18) {
+        throw new lllegalArgumentException("you are not able to vote");
+    }
+    else{
+        System.out.println("able to vote");
+    }
+}
+}
